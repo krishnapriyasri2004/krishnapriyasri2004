@@ -13,10 +13,13 @@ Other:Communication,Event Management,Problem Solving,Ethical Communication
 Student Internship Coordinator-Dept of DCS(2024-Present)
 Professional Service Director(Utsava Flagship Event 2k23) in Rotaract Club of Coimbatore Institute of Technology
 Event Coordinator in Athena 2k23 in in Rotaract Club of Coimbatore Institute of Technology
-Awards:
+
+
+⭐️Awards and 🎖️Recognitions:
 Participated in International SilverZone Olympiad and won gold medal in science and also secured second place in aptitude
 reasoning skill .
 •Participated in English Essay Competition and was recognized winner to visit NASA(2020).
+
 
 📧 Contact:
 
