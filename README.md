@@ -24,4 +24,3 @@
   - Email: krishnapriyasri04@gmail.com
   - Contact No: 9047547774
 
-This format should help make your information more concise and easier to read for potential recruiters or collaborators.
