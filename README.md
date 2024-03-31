@@ -1,4 +1,4 @@
-                                                                                    #Krishna Priya S
+##Krishna Priya S
 
 👩‍💻 Decision and Computing science student with expertise in Java,python,MySQL for databases and Microsoft Office tools for efficient solutions. I bring a creative flair for innovative projects and thrive in collaborative environments.
 
