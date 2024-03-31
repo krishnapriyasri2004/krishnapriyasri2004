@@ -1,7 +1,7 @@
-Certainly! Here's your information formatted into bullet points:
 
-- **Name**: Krishna Priya S
-- **👩‍💻 About Me**: Decision and Computing Science student with expertise in Java, Python, MySQL for databases, and Microsoft Office tools for efficient solutions. I bring a creative flair for innovative projects and thrive in collaborative environments.
+
+**Name**: Krishna Priya S
+ **👩‍💻 About Me**: Decision and Computing Science student with expertise in Java, Python, MySQL for databases, and Microsoft Office tools for efficient solutions. I bring a creative flair for innovative projects and thrive in collaborative environments.
 
 - **🌐 Skills**:
   - Programming Languages: Java, Python
