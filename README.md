@@ -1,5 +1,7 @@
-### Welcome to My GitHub Profile! 👋 <img src="https://komarev.com/ghpvc/?username=krishnapriyasri2004&label=Profile%20views&color=0e75b6&style=flat" alt="S-Subramanian-44" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnapriyasri2004&show_icons=true&locale=en" alt="403ender" /></p>
+### Welcome to My GitHub Profile! 👋 <img src="https://komarev.com/ghpvc/?username=krishnapriyasri2004&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnapriyasri2004&show_icons=true&locale=en" alt="krishnapriyasri2004" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnapriyasri2004&show_icons=true&locale=en&layout=compact" alt="krishnapriyasri2004" /></p>
+
 
 ## About Me
 
