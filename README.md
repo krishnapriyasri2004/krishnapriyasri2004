@@ -16,7 +16,7 @@
 🎓 I'm a passionate Decision Science student exploring the fascinating world of data-driven solutions. I enjoy working on projects that merge analytics, predictive modeling, and visualization to uncover meaningful insights.
 
 ## Technical Proficiency
-💻 I’m skilled in Python, scikit-learn, PowerBI, and SQL. I also work with Excel, pandas, and machine learning libraries to build projects that turn complex datasets into clear, impactful stories.
+💻 I'm skilled in Python, scikit-learn, PowerBI, and SQL. I also work with Excel, pandas, and machine learning libraries to build projects that turn complex datasets into clear, impactful stories.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -56,7 +56,6 @@
   </a>
 </p>
 
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnapriyasri2004&show_icons=true&locale=en&layout=compact" alt="krishnapriyasri2004" /></p>
 
 ## Project Highlights
@@ -64,7 +63,7 @@
 - Check out my work at: [https://krishnapriyas24.netlify.app/](https://krishnapriyas24.netlify.app/)
 
 ## Collaboration and Communication
-🤝 I enjoy working in collaborative environments and also thrive when independently solving challenges. I’m a clear communicator and capable of translating data insights into compelling narratives.
+🤝 I enjoy working in collaborative environments and also thrive when independently solving challenges. I'm a clear communicator and capable of translating data insights into compelling narratives.
 
 ## Continuous Learning
 📚 I am committed to lifelong learning in the fields of data science and analytics. I enjoy discovering new tools, technologies, and techniques to enhance my knowledge.
