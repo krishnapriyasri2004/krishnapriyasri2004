@@ -56,10 +56,18 @@ I'm a dedicated individual specializing in Decision & Computing Sciences. I am r
 ## Let's Connect!!
 📫 Feel free to explore my repositories.
 - 📫 How to reach me **krishnapriyasri04@gmail.com**
-- <h3 align="left">Connect with me:</h3>
+-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/krishnapriyas2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subramanian-s-ab94302a1/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/subbusmanis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="[https://www.kaggle.com/harish1106](https://www.kaggle.com/subbusmanis)" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/subramanian16011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/subramanian16011" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/krishnapriyas2004/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/subbusmanis" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/KrishnaPriya240/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
+
 
 </p>
