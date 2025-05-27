@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnapriyas2004&show_icons=true&theme=default&locale=en" alt="krishnapriyas2004" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=krishnapriyas2004&show_icons=true&theme=default&locale=en" alt="krishnapriyas2004" />
 </p>
 
 ---
+
 
 ## 👩‍💻 About Me
 
