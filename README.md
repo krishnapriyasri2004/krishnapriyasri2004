@@ -56,6 +56,15 @@ I'm a dedicated individual specializing in Decision & Computing Sciences. I am r
 
 ---
 
+## 🚩 Project Highlights
+
+Explore my repositories to find projects showcasing my skills in data science, analytics, and web development. Each project reflects my drive to solve real-world problems through technology.
+
+Check out my portfolio here:  
+[https://krishnapriyas24.netlify.app/](https://krishnapriyas24.netlify.app/)
+
+---
+
 ## 🤝 Collaboration and Communication
 
 I thrive both in individual and collaborative settings, ensuring projects are completed promptly. My adept communication and presentation skills enable me to articulate intricate data insights effectively to diverse teams.
