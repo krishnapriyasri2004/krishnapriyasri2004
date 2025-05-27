@@ -1,71 +1,80 @@
 # Welcome to My GitHub Profile! 👋  
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=krishnapriyasri2004&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapriyasri2004" />
+  <img src="https://komarev.com/ghpvc/?username=krishnapriyas2004&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapriyas2004" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnapriyasri2004&show_icons=true&locale=en" alt="krishnapriyasri2004" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnapriyas2004&show_icons=true&locale=en" alt="krishnapriyas2004" />
 </p>
 
 ---
 
-## 👩‍💻 About Me  
-🎓 I'm Krishna Priya S, a Decision Science enthusiast passionate about transforming data into actionable insights.  
-Currently focused on data analytics, machine learning, contracts, and billing automation — I strive to build impactful solutions through data-driven thinking.
+## 👩‍💻 About Me
+
+🎓 I'm a passionate Computer Science student with a keen interest in **Data Science, AI, and Full Stack Development**. I enjoy transforming complex datasets into actionable insights and building user-friendly applications that solve real-world problems.
+
+## 🛠️ Technical Proficiency
+
+💡 Proficient in **Python**, **JavaScript**, **MySQL**, and **PowerBI**  
+📊 Skilled in **data visualization**, **predictive modeling**, and **dashboard development**  
+🛠️ Also familiar with **HTML**, **CSS**, **C**, and statistical tools like **Excel**
 
 ---
 
-## 💡 Technical Proficiency  
-🔧 Skilled in Python, SQL, PowerBI, Excel, and data storytelling.  
-📊 Strong understanding of predictive modeling, data visualization, and dashboard development.
+### 🧰 Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a> 
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a> 
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a> 
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a> 
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnapriyasri2004&show_icons=true&locale=en&layout=compact" alt="krishnapriyasri2004" />
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
 
-## 🌟 Project Highlights  
-🚀 Dive into my repositories to explore real-world projects in:  
-- 📈 Employee Attrition Analysis  
-- 📊 Career Development Insights  
-- 📉 PowerBI Dashboards  
-- 📁 Contracts and Billing Automation (Stragiliti Platform)
-
-📂 Ongoing work includes backend integration, MySQL analytics, and frontend UI for contract workflows.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnapriyas2004&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
-## 🤝 Collaboration and Soft Skills  
-✨ I'm detail-oriented, a great communicator, and highly collaborative.  
-💬 I enjoy translating complex data into simple stories and visuals.
+## 🚀 Project Highlights
+
+🔍 Dive into my repositories to explore data-driven projects and full-stack web applications. From **employee attrition prediction** to **interactive dashboards**, my projects focus on delivering practical insights and intuitive UX.
+
+🔗 Portfolio Website: [krishnapriyas24.netlify.app](https://krishnapriyas24.netlify.app/)
 
 ---
 
-## 📚 Continuous Learning  
-🔍 Always exploring new technologies in AI, low-code platforms, and data engineering.  
-📖 Currently upskilling in Generative AI and MySQL backend development.
+## 🤝 Collaboration and Communication
+
+I’m a team player who values clarity and effective communication. I’m open to collaborative work, internships, or contributing to meaningful open-source projects.
 
 ---
 
-## 📬 Let's Connect!  
-📧 Reach me: **krishnapriyasri04@gmail.com**  
+## 🌱 Continuous Learning
+
+I thrive in learning environments and constantly challenge myself with new tech and projects. Currently, I’m diving deeper into **Machine Learning**, **LLMs**, and **Data Engineering**.
+
+---
+
+## 📬 Let's Connect!
+
+Feel free to connect with me on these platforms for project discussions, collaborations, or just to say hello!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/krishna-priya-s-5b35502a1/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/krishnapriya_sri_/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://leetcode.com/krishnapriyasri2004/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://medium.com/@krishnapriyasri2004" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/krishnapriyas2004/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a>
+  <a href="https://leetcode.com/u/KrishnaPriya240/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/></a>
 </p>
+
+📫 **Email**: Reach me at krishnapriyasri04@gmail.com
+
+---
+
+⭐️ *Thanks for visiting my profile! Feel free to explore my work and drop a star if you find it useful.*
