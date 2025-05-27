@@ -1,102 +1,71 @@
-### Welcome to My GitHub Profile! 👋  
-<img src="https://komarev.com/ghpvc/?username=krishnapriyasri2004&label=Profile%20views&color=0e75b6&style=flat" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnapriyasri2004&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnapriyasri2004&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+# Welcome to My GitHub Profile! 👋  
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=krishnapriyasri2004&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapriyasri2004" />
 </p>
 
----
-
-## 🧑‍💼 About Me
-
-I'm a dedicated individual specializing in Decision & Computing Sciences. I am recognized for a strong work ethic, positive outlook, and eagerness to learn. Committed to personal growth and seeking a successful start to my professional career.
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnapriyasri2004&show_icons=true&locale=en" alt="krishnapriyasri2004" />
+</p>
 
 ---
 
-## 🛠️ Technical Proficiency
-
-- 💻 **Languages & Tools**: Python, SQL, JavaScript, HTML, CSS, Power BI, MS Office  
-- 🧠 **Data Science & Analytics**: Machine Learning, Data Mining, Data Visualization  
-- 🌐 **Web Development**: Flask, Django, HTML5, CSS3, JavaScript (ES6+), React.js, Node.js  
-- 🧰 **Frameworks & Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Express.js  
-- 🗃️ **Database & Cloud**: MySQL, AWS, Databricks  
-- ⚙️ **Others**: Git, GitHub, Jupyter Notebooks, VS Code  
+## 👩‍💻 About Me  
+🎓 I'm Krishna Priya S, a Decision Science enthusiast passionate about transforming data into actionable insights.  
+Currently focused on data analytics, machine learning, contracts, and billing automation — I strive to build impactful solutions through data-driven thinking.
 
 ---
 
-## 🚀 Tech Stack
+## 💡 Technical Proficiency  
+🔧 Skilled in Python, SQL, PowerBI, Excel, and data storytelling.  
+📊 Strong understanding of predictive modeling, data visualization, and dashboard development.
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a> 
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a> 
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a> 
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a> 
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnapriyasri2004&show_icons=true&locale=en&layout=compact" alt="krishnapriyasri2004" />
+</p>
+
+---
+
+## 🌟 Project Highlights  
+🚀 Dive into my repositories to explore real-world projects in:  
+- 📈 Employee Attrition Analysis  
+- 📊 Career Development Insights  
+- 📉 PowerBI Dashboards  
+- 📁 Contracts and Billing Automation (Stragiliti Platform)
+
+📂 Ongoing work includes backend integration, MySQL analytics, and frontend UI for contract workflows.
+
+---
+
+## 🤝 Collaboration and Soft Skills  
+✨ I'm detail-oriented, a great communicator, and highly collaborative.  
+💬 I enjoy translating complex data into simple stories and visuals.
+
+---
+
+## 📚 Continuous Learning  
+🔍 Always exploring new technologies in AI, low-code platforms, and data engineering.  
+📖 Currently upskilling in Generative AI and MySQL backend development.
+
+---
+
+## 📬 Let's Connect!  
+📧 Reach me: **krishnapriyasri04@gmail.com**  
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Databricks-E02020?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/krishna-priya-s-5b35502a1/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/krishnapriya_sri_/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://leetcode.com/krishnapriyasri2004/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+  <a href="https://medium.com/@krishnapriyasri2004" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
 </p>
-
----
-
-## 🚩 Project Highlights
-
-Explore my repositories to find projects showcasing my skills in data science, analytics, and web development. Each project reflects my drive to solve real-world problems through technology.
-
-Check out my portfolio here:  
-[https://krishnapriyas24.netlify.app/](https://krishnapriyas24.netlify.app/)
-
----
-
-## 🤝 Collaboration and Communication
-
-I thrive both in individual and collaborative settings, ensuring projects are completed promptly. My adept communication and presentation skills enable me to articulate intricate data insights effectively to diverse teams.
-
----
-
-## 📚 Continuous Learning
-
-🌟 Keen on staying at the forefront of data science, I am dedicated to ongoing learning. Actively pursuing opportunities to apply my skills, I aim to contribute to impactful projects that resonate with my enthusiasm for analytics.
-
----
-
-## 📫 Let's Connect!
-
-Feel free to explore my repositories and reach out to collaborate or connect:
-
-- ✉️ Email: **krishnapriyasri04@gmail.com**
-
-## 📫 Let's Connect!
-
-Feel free to explore my repositories, and don't hesitate to reach out for collaboration, discussions, or any exciting opportunities.
-
-📧 How to reach me: krishnapriyasri04@gmail.com
-
-### 🌐 Connect with me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/krishnapriyas2004/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/KrishnaPriya240/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
