@@ -15,9 +15,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
@@ -44,6 +41,16 @@
   </a> 
 </p>
 
+<h3 align="left">Cloud Platforms:</h3>
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://databricks.com/" target="_blank" rel="noreferrer">
+    <img src="https://databricks.com/wp-content/uploads/2020/02/Databricks_Icon.png" alt="databricks" width="40" height="40"/>
+  </a>
+</p>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnapriyasri2004&show_icons=true&locale=en&layout=compact" alt="krishnapriyasri2004" /></p>
 
 ## Project Highlights
@@ -57,18 +64,15 @@
 📚 I am committed to lifelong learning in the fields of data science and analytics. I enjoy discovering new tools, technologies, and techniques to enhance my knowledge.
 
 ## Let's Connect!
-📫 Feel free to reach out for collaboration, questions, or just to connect!
+📫 Feel free to reach out for collaboration, questions, or just to connect!  
 - 📧 Email: **krishnapriyasri04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/krishnapriyasri2004/" target="blank">
+  <a href="https://www.linkedin.com/in/krishnapriyasri2004/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/_your_instagram_id_/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@_your_medium_id_" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  <a href="https://leetcode.com/u/KrishnaPriya240/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
