@@ -1,10 +1,11 @@
 # Welcome to My GitHub Profile! 👋  
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=krishnapriyas2004&label=Profile%20views&color=0e75b6&style=flat" alt="krishnapriyas2004" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnapriyas2004&show_icons=true&locale=en" alt="krishnapriyas2004" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnapriyas2004&show_icons=true&theme=default&locale=en" alt="krishnapriyas2004" />
 </p>
 
 ---
@@ -38,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnapriyas2004&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapriyas2004&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
