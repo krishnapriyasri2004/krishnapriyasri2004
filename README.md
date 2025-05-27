@@ -50,7 +50,7 @@ I'm a dedicated individual specializing in Decision & Computing Sciences. I am r
 ## Continuous Learning
 🌟 Keen on staying at the forefront of data science, I am dedicated to ongoing learning. Actively pursuing opportunities to apply my skills, I aim to contribute to impactful projects that resonate with my enthusiasm for analytics.
 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnapriyasri2004&show_icons=true&locale=en&layout=compact" alt="S-Subramanian-44" /></p>
+
 
 
 ## Let's Connect!!
@@ -61,8 +61,7 @@ I'm a dedicated individual specializing in Decision & Computing Sciences. I am r
   <a href="https://www.linkedin.com/in/krishnapriyas2004/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.kaggle.com/subbusmanis" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+
   </a>
   <a href="https://leetcode.com/KrishnaPriya240/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
