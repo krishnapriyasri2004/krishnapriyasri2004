@@ -83,13 +83,19 @@ Feel free to explore my repositories and reach out to collaborate or connect:
 
 - ✉️ Email: **krishnapriyasri04@gmail.com**
 
+## 📫 Let's Connect!
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration, discussions, or any exciting opportunities.
+
+📧 How to reach me: krishnapriyasri04@gmail.com
+
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/krishnapriyas2004/" target="blank">
+  <a href="https://www.linkedin.com/in/krishnapriyas2004/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/KrishnaPriya240/" target="blank">
+  <a href="https://leetcode.com/KrishnaPriya240/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
