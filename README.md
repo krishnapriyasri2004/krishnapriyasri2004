@@ -55,7 +55,6 @@
 
 ## Project Highlights
 🚀 Explore my repositories to find practical projects built with a problem-solving mindset.  
-- I have **24 public repositories** on GitHub.  
 - Check out my work at: [https://krishnapriyas24.netlify.app/](https://krishnapriyas24.netlify.app/)
 
 ## Collaboration and Communication
