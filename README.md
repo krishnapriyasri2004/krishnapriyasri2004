@@ -43,12 +43,15 @@
 
 <h3 align="left">Cloud Platforms:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-  </a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+</a>
+
+  
   <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://databricks.com/wp-content/uploads/2020/02/Databricks_Icon.png" alt="databricks" width="40" height="40"/>
-  </a>
+  <img src="https://databricks.com/wp-content/uploads/2020/02/Databricks_Icon.png" alt="databricks" width="40" height="40"/>
+</a>
+
 </p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnapriyasri2004&show_icons=true&locale=en&layout=compact" alt="krishnapriyasri2004" /></p>
