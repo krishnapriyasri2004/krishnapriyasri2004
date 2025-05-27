@@ -5,6 +5,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnapriyasri2004&show_icons=true&locale=en" alt="krishnapriyasri2004" /></p>
 
+<!-- Custom badge for total repos count -->
+<p>
+  <img src="https://img.shields.io/badge/Public_Repos-24-blue?style=flat-square" alt="Total Repos" />
+</p>
+
 ---
 
 ## About Me
