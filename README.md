@@ -22,7 +22,7 @@ I'm a dedicated individual specializing in Decision & Computing Sciences. I am r
 - 🧠 **Data Science & Analytics**: Machine Learning, Data Mining, Data Visualization  
 - 🌐 **Web Development**: Flask, Django, HTML5, CSS3, JavaScript (ES6+), React.js, Node.js  
 - 🧰 **Frameworks & Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Express.js  
-- 🗃️ **Database & Cloud**: MySQL, MongoDB, AWS, Databricks  
+- 🗃️ **Database & Cloud**: MySQL, AWS, Databricks  
 - ⚙️ **Others**: Git, GitHub, Jupyter Notebooks, VS Code  
 
 ---
