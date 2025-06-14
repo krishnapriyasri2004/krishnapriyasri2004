@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Public_Repos-24-blue?style=flat-square" alt="Total Repos" />
 </p>
 
----
 
 ## About Me
 🎓 I'm a passionate Decision Science student exploring the fascinating world of data-driven solutions. I enjoy working on projects that merge analytics, predictive modeling, and visualization to uncover meaningful insights.
