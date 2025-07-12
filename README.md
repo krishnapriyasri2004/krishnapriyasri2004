@@ -59,7 +59,7 @@
 
 ## Project Highlights
 🚀 Explore my repositories to find practical projects built with a problem-solving mindset.  
-- Check out my work at: [https://krishnapriyas24.netlify.app/](https://krishnapriyas24.netlify.app/)
+- Check out my work at: [https://krishnapriyasri04.netlify.app/](https://krishnapriyasri04.netlify.app/)
 
 ## Collaboration and Communication
 🤝 I enjoy working in collaborative environments and also thrive when independently solving challenges. I'm a clear communicator and capable of translating data insights into compelling narratives.
