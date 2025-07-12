@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Public_Repos-24-blue?style=flat-square" alt="Total Repos" />
 </p>
 
-
 ## About Me
 🎓 I'm a passionate Decision Science student exploring the fascinating world of data-driven solutions. I enjoy working on projects that merge analytics, predictive modeling, and visualization to uncover meaningful insights.
 
@@ -78,5 +77,8 @@
   </a>
   <a href="https://leetcode.com/u/KrishnaPriya240/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/h71762133027" target="_blank" rel="noreferrer">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
